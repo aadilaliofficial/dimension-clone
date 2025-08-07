@@ -6,8 +6,8 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 
 AOS.init({
-  once: true, // animations run once
-  duration: 800, // default duration
+  once: true, 
+  duration: 800, 
 });
 
 createRoot(document.getElementById('root')).render(
