@@ -1,4 +1,3 @@
-// src/components/ParticlesBg.jsx
 import { loadFull } from "tsparticles";
 import Particles from "react-tsparticles";
 
@@ -73,3 +72,4 @@ export default function ParticlesBg() {
     />
   );
 }
+
