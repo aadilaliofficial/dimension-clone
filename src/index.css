@@ -9,10 +9,10 @@ body {
   font-family: 'Inter', sans-serif;
   margin: 0;
   padding: 0;
-  overflow-x: hidden; /* ✅ Prevent horizontal scroll */
-  scrollbar-width: none; /* Firefox */
+  overflow-x: hidden;
+  scrollbar-width: none; 
 }
 
 body::-webkit-scrollbar {
-  display: none; /* Chrome, Safari, Opera */
+  display: none; 
 }
